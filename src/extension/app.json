@@ -1,0 +1,7 @@
+{
+  "type": "crm-card",
+  "name": "Hide Emails Everywhere",
+  "file": "manifest.json",
+  "label": "Hide Emails Everywhere",
+  "description": "Automatically hides all email addresses on any webpage inside HubSpot."
+}
