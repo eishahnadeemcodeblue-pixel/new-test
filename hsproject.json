@@ -2,5 +2,6 @@
   "name": "hide-emails-project",
   "srcDir": "src",
   "type": "web_extension",
+  "platformVersion": "2025.2",
   "description": "A HubSpot project that hides email addresses on the CRM UI except for whitelisted ones."
 }
