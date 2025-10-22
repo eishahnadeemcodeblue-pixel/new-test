@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Hide Emails Everywhere",
+  "version": "1.0",
+  "description": "Automatically hides all email addresses on HubSpot CRM pages except whitelisted ones.",
+  "content_scripts": [
+    {
+      "matches": ["https://app.hubspot.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["scripting"]
+}
